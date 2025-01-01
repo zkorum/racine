@@ -2,7 +2,7 @@
 
 Racine is a **meta-protocol** designed for **verifiable provenance**, capturing the **semantics** and **origin** of data, independent of storage location or transfer protocol.  
 
-It introduces an **authentication layer** that uses either trustless zero-knowledge proofs, depending on the use case. This authentication layer enables your real-life credential to become the primary digital identifier, using zero-knowledge proofs to protect privacy. It ensures context-based proof of humanity (1 account = 1 human), with the **ZKP nullifier** serving as the **root of identity**, establishing trust while preserving anonymity.
+It introduces an **authentication layer** based on trustless zero-knowledge proofs, allowing real-life credentials to serve as the primary digital identifier while protecting privacy. This ensures context-based proof of humanity (1 account = 1 human), with the **ZKP nullifier** acting as the **root of identity**, establishing trust while maintaining anonymity.
 
 Racine also introduces a universal API that allows data to be collected and shared from any source, no matter how the data is stored or transmitted. It aims to be compatible with a wide range of existing data transfer protocols such as centralized HTTP server, IPFS, Filecoin, **Waku**, **Nostr** or **AT Proto** (think cross-posting but beyond just social).
 
