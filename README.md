@@ -8,7 +8,7 @@ Racine also introduces a **universal API** that allows data to be collected and 
 
 Racine is primarily designed for **zk-anonymous apps**, but also supports use cases that add **auditability** and **transparency** to otherwise fully centralized applications, with minimal infrastructure changes.
 
-[Agora Citizen Network](https://agoracitizen.network) is the first product built on top of the Racine Protocol.
+ZKorum's [Agora Citizen Network](https://agoracitizen.network) is the first product built on top of the Racine Protocol.
 
 ## Features
 
