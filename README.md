@@ -14,7 +14,7 @@ ZKorum's [Agora Citizen Network](https://agoracitizen.network) is the first prod
 
 - Trust Source Flexibility: Developers can choose the trust source for verifiable data provenance. Whether tied to a zk-proof of identity (relying on the credential issuer) or a trusted provider like phone number verification, the protocol ensures data verifiability independent of storage location.
 - Privacy and Self-Censorship-Resistance: 
-    - We provide integration with the Rarimo protocol. Rarimo can turn linkable credentials into issuer-unlinkable credentials, protecting the proofs against dictionary attacks from the issuing authority.
+    - We provide integration with the Rarimo protocol. Rarimo can turn linkable credentials into issuer-unlinkable credentials, protecting the zero-knowledge proofs against dictionary attacks from the issuing authority.
     - Unless intentionally misused by app developers, Racine is designed to never transmit Personal Identifiable Information (PII) across the network.
     - We provide tools for developers to enable users to broadcast messages via third-party proxy servers (e.g., apps relying on Racine), allowing users to protect their IP address with optional mixnet routing (e.g., Tor).
 - Right to Be Forgotten:
