@@ -10,6 +10,8 @@ Racine is primarily designed for **zk-anonymous apps**, but also supports use ca
 
 ZKorum's [Agora Citizen Network](https://agoracitizen.network) is the first product built on top of the Racine Protocol.
 
+Currently, Racine is direclty integrated within the [Agora code base](https://github.com/zkorum/agora), we're working towards exporting this protocol away from it.
+
 ## Features
 
 - Trust Source Flexibility: Developers can choose the trust source for verifiable data provenance. Whether tied to a zk-proof of identity (relying on the credential issuer) or a trusted provider like phone number verification, the protocol ensures data verifiability independent of storage location.
